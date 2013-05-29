@@ -1,0 +1,327 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wa",
+				"wantedHeight"
+			],
+			[
+				"Get",
+				"GetTouch"
+			],
+			[
+				"Tou",
+				"TouchPhase"
+			],
+			[
+				"touch",
+				"touch2"
+			],
+			[
+				"for",
+				"formidable"
+			],
+			[
+				"req",
+				"requestHandlers"
+			],
+			[
+				"post",
+				"postData"
+			],
+			[
+				"postD",
+				"postDataChunk"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 196.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/AES/Unity/MyStore/Assets/MyStore/spine/data/skeleton.json.txt",
+		"/D/AES/Unity/MyStore/Assets/MyStore/data/dataPrototype.asset",
+		"/C/Users/Administrator/AppData/Roaming/ihelper/92538897ea91c6e19bffad608ca42add48444e05/user/com_apple_MobileAsset_DictionaryServices_dictionary.plist",
+		"/I/Atlassian/JIRA/logs/access_log.2013-05-09",
+		"/I/Atlassian/JIRA/logs/jira171012232116-stdout.2013-05-09.log",
+		"/I/Atlassian/JIRA/logs/localhost.2013-05-09.log",
+		"/I/Atlassian/JIRA/logs/manager.2013-05-09.log",
+		"/I/Atlassian/JIRA/logs/host-manager.2013-05-09.log",
+		"/I/Atlassian/JIRA/logs/commons-daemon.2013-05-09.log",
+		"/I/Atlassian/JIRA/logs/catalina.2013-05-09.log",
+		"/C/Users/Administrator/Desktop/NetManager.cs",
+		"/C/Users/Administrator/.gitignore-global",
+		"/D/AES/Eclipse_Workspace/Zephyr/Android/Germ/assets/res/240_320/system.info",
+		"/D/AES/Unity/MyStore/Assets/MyStore/data/dataEnemy.asset",
+		"/D/AES/Unity/MyStore/Assets/MyStore/data/dataPlayer.asset",
+		"/E/Received/MMCrack.java",
+		"/C/Users/Administrator/AppData/Roaming/ihelper/92538897ea91c6e19bffad608ca42add48444e05/user/BKDictionaryManager_LanguageToOrder.plist",
+		"/C/Users/Administrator/Desktop/BKDictionaryManager_LanguageToOrder.plist",
+		"/C/Users/Administrator/AppData/Roaming/ihelper/92538897ea91c6e19bffad608ca42add48444e05/user/Info.plist",
+		"/H/Origin Games/SimCity/SimCityData/Locale/zh-tw/Data.package",
+		"/Y/AsGardGameDevelopKit/MMBillingSDK_RELEASE(v2.1.0)/mmbilling.2.1.0/mmiap.xml",
+		"/C/Users/Administrator/Desktop/Charge.xml",
+		"/Y/AsGardGameDevelopKit/MMBillingSDK_RELEASE(v2.1.0)/mmbilling.2.1.0/CopyrightDeclaration.xml",
+		"/D/AES/Eclipse_Workspace/Zephyr/Android/astrid/tests-sync/src/com/todoroo/astrid/gtasks/GtasksNewSyncTest.java",
+		"/D/AES/Eclipse_Workspace/Zephyr/Android/astrid/tests/src/com/todoroo/astrid/model/TaskTests.java",
+		"/D/AES/facebook-android-sdk/tests/src/com/facebook/android/tests/Tests.java",
+		"/C/Users/Administrator/Desktop/ConsumeCodeInfo.xml",
+		"/E/Received/ConsumeCodeInfo.xml",
+		"/E/Received/Charge.xml",
+		"/J/download/Unity 3D-V4.1.0 f4 破解补丁，亲测可用.txt",
+		"/H/Faster Than Light/data/tooltips.xml",
+		"/D/AES/Eclipse_Workspace/Zephyr/Android/Planet/assets/res/system.info",
+		"/E/UnityProjects/StarsMap_20121213/Assets/Plugins/Android/AndroidManifest.xml",
+		"/E/UnityProjects/StarsMap_20121213/Assets/Plugins/Android/res/values/g_strings.xml",
+		"/D/AES/Tool/Spine/examples/example-skeleton.json",
+		"/D/AES/Tool/Spine/examples/example-animation.json",
+		"/D/AES/Unity/MyStore/Assets/Standard Assets/Scripts/Camera Scripts/SmoothFollow.js",
+		"/H/Faster Than Light/resources/data.dat",
+		"/C/Temp/Rar$DR43.864/assets/ConsumeCodeInfo.xml",
+		"/E/Received/20130328165225/assets/ConsumeCodeInfo.xml",
+		"/C/Temp/Rar$DR02.048/assets/ConsumeCodeInfo.xml",
+		"/C/Temp/Rar$DR20.048/assets/ConsumeCodeInfo.xml",
+		"/C/Temp/Rar$DR70.048/assets/Charge.xml",
+		"/C/Temp/Rar$DR46.048/assets/ConsumeCodeInfo.xml",
+		"/C/Temp/Rar$DR78.008/assets/ConsumeCodeInfo.xml",
+		"/C/Temp/Rar$DR78.008/assets/Charge.xml",
+		"/C/Temp/Rar$DR41.304/assets/ConsumeCodeInfo.xml",
+		"/C/Temp/Rar$DR41.304/assets/Charge.xml",
+		"/C/Temp/Rar$DR07.304/assets/Charge.xml",
+		"/C/Temp/Rar$DR72.600/assets/Charge.xml",
+		"/E/Received/map0.map",
+		"/D/AES/Unity/MyStore/Assets/Standard Assets/Scripts/General Scripts/DragRigidbody.js",
+		"/D/AES/Unity/MyStore/Assets/MyStore/doc/data_block.json",
+		"/C/Users/Administrator/Desktop/data_class.json",
+		"/C/Users/Administrator/Desktop/data_element.json",
+		"/D/AES/Unity/MyStore/Assets/MyStore/script/FramesPerSecond.js",
+		"/D/AES/Unity/MyStore/Assets/Resources/data/data_block.json",
+		"/E/Torchlight_Crack/Elemental/Elemental.MESH.xml",
+		"/D/AES/Eclipse_Workspace/Zephyr/Android/PF_Android/assets/res/480_800/system.info",
+		"/E/Torchlight_Crack/Elemental/Elemental.SKELETON.xml",
+		"/D/AES/Unity/Alpha/Assets/alpha/fps.cs",
+		"/E/Torchlight_Crack/dog/dog.SKELETON.xml",
+		"/E/Python26/Lib/xml/sax/__init__.py",
+		"/E/Torchlight_Crack/ogre_import.py",
+		"/E/Torchlight_Crack/Alchemist/Alchemist.SKELETON.xml",
+		"/Y/Unity/plugins/20130118/Android Game Examples/scrore.js",
+		"/D/AES/Unity/PluginTest/Assets/TestStarDemo/Tests/LevelSetupTest.cs",
+		"/E/Torchlight_Crack/dog/dog.MESH.xml",
+		"/E/Torchlight_Crack/Pak/media/models/Elemental/Elemental.SKELETON.xml",
+		"/D/AES/Unity/Alpha/Assets/alpha/FramesPerSecond.js",
+		"/E/Torchlight_Crack/dog/run.SKELETON",
+		"/E/Torchlight_Crack/dog/dog.MESH",
+		"/D/AES/Eclipse_Workspace/Zephyr/Android/observable/src/observable.js",
+		"/C/Temp/360zip$Temp/360$7/fake_xhr.js",
+		"/E/Torchlight_Crack/blender-2.49b-win64-python26/.blender/scripts/ogre_import.py",
+		"/E/Torchlight_Crack/Pak/media/models/Alchemist/Alchemist.SKELETON",
+		"/E/Torchlight_Crack/Alchemist/Idle.SKELETON.xml",
+		"/E/Torchlight_Crack/Alchemist/Alchemist.material",
+		"/E/Torchlight_Crack/Alchemist/ALCHEMIST.ANIMATION.adm",
+		"/E/Torchlight_Crack/Alchemist/alchemist.animation",
+		"/F/Torchlight_Crack/ogre_import.py",
+		"/C/Temp/360zip$Temp/360$6/request_test.js",
+		"/C/Temp/360zip$Temp/360$5/request_test.js",
+		"/C/Temp/360zip$Temp/360$0/request.js",
+		"/D/AES/Eclipse_Workspace/Zephyr/Android/learnTDDJS/test/testMystuff.js",
+		"/E/UnityProjects/StarsMap_NoMag/Assets/my/ZoomCamera.js",
+		"/E/UnityProjects/StarsMap_NoMag/Assets/my/fingerDragWorld.js",
+		"/D/AES/Eclipse_Workspace/Zephyr/Android/Germ/assets/res/320_480/MainMenu.ccb",
+		"/D/AES/Eclipse_Workspace/Zephyr/Android/Planet/assets/res/ui_summary_480_800.ccb",
+		"/C/Users/Administrator/Desktop/province.xml",
+		"/D/AES/Res_Sword/hero_para.json",
+		"/D/AES/Tool/jsTestDriver.conf",
+		"/D/AES/Eclipse_Workspace/Zephyr/Android/learnTDDJS/test/testSplice.js",
+		"/D/AES/Eclipse_Workspace/Zephyr/Android/learnTDDJS/src/mystuff.js",
+		"/D/AES/Eclipse_Workspace/Zephyr/Android/learnTDDJS/src-test/testMystuff.js",
+		"/D/AES/Tool/test/test_splice.js",
+		"/E/UnityProjects/StarsMap_NoMag/Assets/my/minimal.cs",
+		"/E/UnityProjects/StarsMap_NoMag/Assets/my/constellations-_ines/drawline.js",
+		"/E/UnityProjects/StarsMap_NoMag/Assets/my/cameraScript.cs",
+		"/E/UnityProjects/StarsMap_NoMag/Assets/my/mag.cs",
+		"/D/AES/Res_Sword/zhaoyun_skill.json",
+		"/E/UnityProjects/StarsMap_20120320_0027/Assets/my/cameraScript.cs",
+		"/E/UnityProjects/StarsMap_20120320_0027/Assets/my/constellations/touchConstellation.js",
+		"/E/UnityProjects/StarsMap_20120320_0027/Assets/my/ZoomCamera.js",
+		"/E/UnityProjects/StarsMap_20120320_0027/Assets/Qualcomm Augmented Reality/Scripts/VirtualButtonBehaviour.cs",
+		"/D/AES/Eclipse_Workspace/Zephyr/Android/LiMao/assets/res/240_320/sprite.info",
+		"/D/AES/Eclipse_Workspace/Zephyr/Android/LiMao/assets/res/240_320/buff.info",
+		"/E/UnityProjects/StarsMap_20120320_0027/Assets/iGUI/iGUICode_SceneMenu.js",
+		"/E/UnityProjects/StarsMap_20120320_0027/Assets/my/TouchInMenu.js",
+		"/E/UnityProjects/StarsMap_20120320_0027/Assets/my/rayTest.js",
+		"/E/UnityProjects/StarsMap_20120320_0027/Assets/my/pinch.js",
+		"/E/UnityProjects/StarsMap_20120320_0027/Assets/Scripts/TrackerEventHandler.cs",
+		"/E/UnityProjects/StarsMap_20120320_0027/Assets/Scripts/TrackableEventHandler.cs",
+		"/E/UnityProjects/StarsMap_20120320_0027/Assets/Scripts/InitializationErrorHandler.cs",
+		"/E/UnityProjects/StarsMap_20120320_0027/Assets/Qualcomm Augmented Reality/Scripts/CameraDeviceBehaviour.cs",
+		"/E/UnityProjects/StarsMap_20120320_0027/Assets/Qualcomm Augmented Reality/Scripts/Image.cs",
+		"/E/UnityProjects/StarsMap_20120320_0027/Assets/Qualcomm Augmented Reality/Scripts/ImageTargetBehaviour.cs",
+		"/E/UnityProjects/StarsMap_20120320_0027/Assets/Qualcomm Augmented Reality/Scripts/IQCARErrorHandler.cs",
+		"/E/UnityProjects/StarsMap_20120320_0027/Assets/Qualcomm Augmented Reality/Scripts/ITrackableEventHandler.cs",
+		"/E/UnityProjects/StarsMap_20120320_0027/Assets/Qualcomm Augmented Reality/Scripts/ITrackerEventHandler.cs",
+		"/E/UnityProjects/StarsMap_20120320_0027/Assets/Qualcomm Augmented Reality/Scripts/IVirtualButtonEventHandler.cs",
+		"/E/UnityProjects/StarsMap_20120320_0027/Assets/Qualcomm Augmented Reality/Scripts/MarkerBehaviour.cs",
+		"/E/UnityProjects/StarsMap_20120320_0027/Assets/Qualcomm Augmented Reality/Scripts/QCARMacros.cs",
+		"/E/UnityProjects/StarsMap_20120320_0027/Assets/Qualcomm Augmented Reality/Scripts/TrackableBehaviour.cs",
+		"/E/UnityProjects/StarsMap_20120320_0027/Assets/my/minimal.cs",
+		"/D/AES/Eclipse_Workspace/Zephyr/Android/LiMao/assets/res/240_320/system.info",
+		"/D/AES/Eclipse_Workspace/Zephyr/Android/LiMao/assets/res/240_320/skill.info",
+		"/D/AES/Eclipse_Workspace/Zephyr/Android/LiMao/assets/res/240_320/talent.info"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Set",
+			"'response'",
+			"()",
+			"\n    {",
+			"    \n",
+			"/>\n",
+			"\nprivate var wantedHeight;\nprivate var wantedRotationAngle;\nprivate var wantedRotationAngle;\nprivate var wantedRotationAngle;",
+			"IMPORT_OGREXMLC",
+			"IMPORT",
+			"IMPORT_OGREXMLCONVERTER",
+			"y",
+			"			\n",
+			"	\n",
+			"		",
+			"fieldOfView",
+			"attackerIce",
+			"1000",
+			"40000,3000",
+			"10",
+			"global",
+			"Handle",
+			"支持的宝石类型",
+			"	\n",
+			"route",
+			"[\"/"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"defenderIce",
+			"25000,2000"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
