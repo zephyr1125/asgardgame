@@ -43,6 +43,23 @@
 	},
 	"buffers":
 	[
+		{
+			"contents": "IndexOutOfRangeException: Array index is out of range.\nPreviewLabs.PlayerPrefs.Deserialize () (at Assets/PlayerPrefs.cs:263)\nPreviewLabs.PlayerPrefs..cctor () (at Assets/PlayerPrefs.cs:44)\nRethrow as TypeInitializationException: An exception was thrown by the type initializer for PreviewLabs.PlayerPrefs\nAsgardGame.MyStore.SceneMenuManager.ReceiverState (NET_STATE state) (at Assets/MyStore/script/SceneMenuManager.cs:673)\nAsgardGame.MyStore.NetManager.OnJoinRoom (Sfs2X.Core.BaseEvent evt) (at Assets/MyStore/script/NetManager.cs:110)\nSfs2X.Core.EventDispatcher.DispatchEvent (Sfs2X.Core.BaseEvent evt)\nRethrow as Exception: Error dispatching event roomJoin: An exception was thrown by the type initializer for PreviewLabs.PlayerPrefs   at AsgardGame.MyStore.SceneMenuManager.ReceiverState (NET_STATE state) (at Assets/MyStore/script/SceneMenuManager.cs:673)\nAsgardGame.MyStore.NetManager.OnJoinRoom (Sfs2X.Core.BaseEvent evt) (at Assets/MyStore/script/NetManager.cs:110)\nSfs2X.Core.EventDispatcher.DispatchEvent (Sfs2X.Core.BaseEvent evt)\nSfs2X.Core.EventDispatcher.DispatchEvent (Sfs2X.Core.BaseEvent evt)\nSfs2X.SmartFox.ProcessEvents ()\nAsgardGame.MyStore.NetManager.Update () (at Assets/MyStore/script/NetManager.cs:633)\n",
+			"settings":
+			{
+				"buffer_size": 1227,
+				"line_ending": "Windows",
+				"name": "IndexOutOfRangeException: Array index is out of ra"
+			}
+		},
+		{
+			"file": "/D/AES/Unity/MyStore/Assets/Resources/data/dataItem.asset",
+			"settings":
+			{
+				"buffer_size": 4770,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -68,6 +85,12 @@
 	},
 	"file_history":
 	[
+		"/D/AES/asgardgame_github/CNAME",
+		"/D/AES/asgardgame_github/_config.yml",
+		"/D/AES/asgardgame_github/jekyll/_layouts/default.html",
+		"/D/AES/asgardgame_github/jekyll/index.html",
+		"/D/AES/asgardgame_github/jekyll/_posts/2013-05-29-hello-jekyll.html",
+		"/D/AES/asgardgame_github/_layouts/default.html",
 		"/D/AES/Unity/MyStore/Assets/MyStore/spine/data/skeleton.json.txt",
 		"/D/AES/Unity/MyStore/Assets/MyStore/data/dataPrototype.asset",
 		"/C/Users/Administrator/AppData/Roaming/ihelper/92538897ea91c6e19bffad608ca42add48444e05/user/com_apple_MobileAsset_DictionaryServices_dictionary.plist",
@@ -189,13 +212,7 @@
 		"/E/UnityProjects/StarsMap_20120320_0027/Assets/Qualcomm Augmented Reality/Scripts/ITrackableEventHandler.cs",
 		"/E/UnityProjects/StarsMap_20120320_0027/Assets/Qualcomm Augmented Reality/Scripts/ITrackerEventHandler.cs",
 		"/E/UnityProjects/StarsMap_20120320_0027/Assets/Qualcomm Augmented Reality/Scripts/IVirtualButtonEventHandler.cs",
-		"/E/UnityProjects/StarsMap_20120320_0027/Assets/Qualcomm Augmented Reality/Scripts/MarkerBehaviour.cs",
-		"/E/UnityProjects/StarsMap_20120320_0027/Assets/Qualcomm Augmented Reality/Scripts/QCARMacros.cs",
-		"/E/UnityProjects/StarsMap_20120320_0027/Assets/Qualcomm Augmented Reality/Scripts/TrackableBehaviour.cs",
-		"/E/UnityProjects/StarsMap_20120320_0027/Assets/my/minimal.cs",
-		"/D/AES/Eclipse_Workspace/Zephyr/Android/LiMao/assets/res/240_320/system.info",
-		"/D/AES/Eclipse_Workspace/Zephyr/Android/LiMao/assets/res/240_320/skill.info",
-		"/D/AES/Eclipse_Workspace/Zephyr/Android/LiMao/assets/res/240_320/talent.info"
+		"/E/UnityProjects/StarsMap_20120320_0027/Assets/Qualcomm Augmented Reality/Scripts/MarkerBehaviour.cs"
 	],
 	"find":
 	{
@@ -257,8 +274,63 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 1227,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								188,
+								188
+							]
+						],
+						"settings":
+						{
+							"auto_name": "IndexOutOfRangeException: Array index is out of ra",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/AES/Unity/MyStore/Assets/Resources/data/dataItem.asset",
+					"settings":
+					{
+						"buffer_size": 4770,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4511,
+								4511
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2449.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -268,7 +340,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 34.0
 	},
 	"layout":
 	{
@@ -322,6 +394,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 262.0,
 	"status_bar_visible": true
 }
